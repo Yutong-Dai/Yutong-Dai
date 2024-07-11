@@ -1,6 +1,6 @@
 * 💫 About Me:
-  - I am a Ph.D. candidate in ISE@Lehigh, working on optimizaiton and deep learning.
-  - My publications can be found [here](ydml.opt).
+  - I earned my doctorate degree from ISE@Lehigh, working on optimizaiton and deep learning.
+  - My publications can be found [here](roth.rbind.io).
 
 
 
